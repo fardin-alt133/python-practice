@@ -21,17 +21,6 @@ I am continuously improving my programming skills by building small projects and
 
 ---
 
-## 🛠 Concepts I Practice
-
-- Variables & Data Types  
-- Operators  
-- Conditional Statements (if-elif-else)  
-- Loops (for, while)  
-- Functions  
-- String Methods  
-- Basic Problem Solving  
-
----
 
 ---
 
