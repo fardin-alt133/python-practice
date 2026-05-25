@@ -55,7 +55,7 @@ I am continuously improving my programming skills by building small projects and
 ## 👨‍💻 Author
 
 **Fardin Meah**  
-EEE undergraduate
+EEE undergraduate,PUC
 
 ---
 
